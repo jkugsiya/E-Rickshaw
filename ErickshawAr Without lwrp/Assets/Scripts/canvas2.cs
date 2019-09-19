@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class canvas2 : MonoBehaviour
 {
@@ -8,10 +9,13 @@ public class canvas2 : MonoBehaviour
     public GameObject rickshaw;
     public GameObject button;
     public GameObject UI;
+    Toggle BatteryToggle;
+    public GameObject toggle;
+    
     // Start is called before the first frame update
     void Start()
     {
-      
+        BatteryToggle = toggle.GetComponent<Toggle>();
     }
 
     // Update is called once per frame
@@ -25,5 +29,11 @@ public class canvas2 : MonoBehaviour
         rickshaw.SetActive(false);
         button.SetActive(false);
         UI.SetActive(true);
+    }
+
+    public void checkBattery()
+    {
+        toggle.SetActive(true);
+        BatteryToggle.isOn = true;
     }
 }
