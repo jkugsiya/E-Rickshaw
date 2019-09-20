@@ -7,10 +7,12 @@ public class canvasScript : MonoBehaviour
     GameObject canvas;
     public GameObject rickshaw;
     public GameObject canvas2;
+    Animator anim;
     // Start is called before the first frame update
     void Start()
     {
         canvas = GameObject.Find("Canvas");
+        anim = GetComponent <Animator>();
     }
 
     // Update is called once per frame
@@ -23,6 +25,8 @@ public class canvasScript : MonoBehaviour
     {
         rickshaw.SetActive(true);
         canvas.SetActive(false);
+
+        anim.SetBool("boolVar", false);
         Invoke("showcanvas", 3.6f);
         /*canvas2.SetActive(true);*/
     }
