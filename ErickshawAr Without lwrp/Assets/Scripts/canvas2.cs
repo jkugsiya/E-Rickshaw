@@ -12,6 +12,7 @@ public class canvas2 : MonoBehaviour
     Toggle BatteryToggle;
     public GameObject toggle;
     public GameObject Canvas2;
+    public Animator anim;
     
     // Start is called before the first frame update
     void Start()
@@ -42,5 +43,7 @@ public class canvas2 : MonoBehaviour
     {
         Canvas2.SetActive(false);
         rickshaw.SetActive(true);
+        anim.SetBool("boolVar",false);
+        anim.SetBool("batteryBool", true);
     }
 }
