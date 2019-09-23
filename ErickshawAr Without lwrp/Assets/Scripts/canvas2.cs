@@ -7,11 +7,13 @@ public class canvas2 : MonoBehaviour
 {
 
     public GameObject rickshaw;
-    public GameObject button;
+    public GameObject check_battery;
+    public GameObject check_tire;
     public GameObject UI;
     Toggle BatteryToggle;
     public GameObject toggle;
     public GameObject Canvas2;
+    public Animator anim;
     
     // Start is called before the first frame update
     void Start()
@@ -28,7 +30,8 @@ public class canvas2 : MonoBehaviour
     public void verify()
     {
         rickshaw.SetActive(false);
-        button.SetActive(false);
+        check_battery.SetActive(false);
+        check_tire.SetActive(false);
         UI.SetActive(true);
     }
 
@@ -39,6 +42,13 @@ public class canvas2 : MonoBehaviour
         Invoke("showBatteryAnimation", 2.0f);
     }
     void showBatteryAnimation()
+    {
+        Canvas2.SetActive(false);
+        rickshaw.SetActive(true);
+        anim.SetBool("boolVar",false);
+        anim.SetBool("batteryBool", true);
+    }
+    public void ShowTire()
     {
         Canvas2.SetActive(false);
         rickshaw.SetActive(true);
