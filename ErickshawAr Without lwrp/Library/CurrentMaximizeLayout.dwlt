@@ -21,6 +21,7 @@ MonoBehaviour:
     width: 1366
     height: 675
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 713, y: 250}
   m_MaxSize: {x: 22008, y: 10000}
   vertical: 1
@@ -31,6 +32,12 @@ MonoBehaviour:
   vertical: 1
   controlID: 1402
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  m_MinSize: {x: 707, y: 250}
+  m_MaxSize: {x: 22002, y: 10000}
+  vertical: 1
+  controlID: 4680
+>>>>>>> parent of d073a2f... Battery Socket
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -55,7 +62,7 @@ MonoBehaviour:
     x: 0
     y: 22
     width: 694
-    height: 472
+    height: 393
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 1
   m_Gizmos: 0
@@ -69,8 +76,8 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
     m_HBaseRangeMin: -347
     m_HBaseRangeMax: 347
-    m_VBaseRangeMin: -227.5
-    m_VBaseRangeMax: 227.5
+    m_VBaseRangeMin: -188
+    m_VBaseRangeMax: 188
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -89,9 +96,9 @@ MonoBehaviour:
       x: 0
       y: 17
       width: 694
-      height: 455
+      height: 376
     m_Scale: {x: 1, y: 1}
-    m_Translation: {x: 347, y: 227.5}
+    m_Translation: {x: 347, y: 188}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -99,14 +106,14 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
       x: -347
-      y: -227.5
+      y: -188
       width: 694
-      height: 455
+      height: 376
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 694, y: 472}
+  m_LastWindowPixelSize: {x: 694, y: 393}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -125,15 +132,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 4}
-  - {fileID: 11}
-  - {fileID: 13}
-  - {fileID: 15}
+  - {fileID: 10}
+  - {fileID: 12}
+  - {fileID: 14}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
     width: 1366
     height: 675
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_MinSize: {x: 713, y: 250}
   m_MaxSize: {x: 22008, y: 10000}
@@ -145,6 +153,12 @@ MonoBehaviour:
   vertical: 0
   controlID: 1403
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  m_MinSize: {x: 707, y: 250}
+  m_MaxSize: {x: 22002, y: 10000}
+  vertical: 0
+  controlID: 4681
+>>>>>>> parent of d073a2f... Battery Socket
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -159,21 +173,25 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 5}
-  - {fileID: 9}
+  - {fileID: 8}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 741
+    width: 696
     height: 675
-  m_MinSize: {x: 102, y: 248}
-  m_MaxSize: {x: 4002, y: 8048}
+  m_MinSize: {x: 102, y: 224}
+  m_MaxSize: {x: 4002, y: 8024}
   vertical: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
   controlID: 3751
 =======
   controlID: 1404
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  controlID: 4598
+>>>>>>> parent of d073a2f... Battery Socket
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -191,8 +209,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 741
-    height: 496
+    width: 696
+    height: 417
   m_MinSize: {x: 102, y: 124}
   m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 2}
@@ -200,7 +218,6 @@ MonoBehaviour:
   - {fileID: 6}
   - {fileID: 7}
   - {fileID: 2}
-  - {fileID: 8}
   m_Selected: 2
   m_LastSelected: 0
 --- !u!114 &6
@@ -226,8 +243,8 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 73
-    width: 739
-    height: 476
+    width: 694
+    height: 397
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: 6a8a19eaf387b2b408de94db20d62618
   m_SceneLighting: 1
@@ -235,6 +252,7 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Target: {x: 0, y: 1, z: -9.5}
     speed: 2
@@ -244,6 +262,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.2967273, y: 0.32298028, z: -0.38306114}
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+    m_Target: {x: 0.03389454, y: 0.24136727, z: 0.022454739}
+    speed: 2
+    m_Value: {x: 0.03389454, y: 0.24136727, z: 0.022454739}
+>>>>>>> parent of d073a2f... Battery Socket
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -272,12 +295,17 @@ MonoBehaviour:
       m_Value: 0
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.069052644, y: 0.85179096, z: -0.116220206, w: -0.50613916}
+=======
+    m_Target: {x: -0.060269665, y: 0.752122, z: -0.06947217, w: -0.65257466}
+>>>>>>> parent of d073a2f... Battery Socket
     speed: 2
-    m_Value: {x: -0.069052644, y: 0.85179096, z: -0.116220206, w: -0.50613916}
+    m_Value: {x: -0.060269665, y: 0.752122, z: -0.06947217, w: -0.65257466}
   m_Size:
-    m_Target: 1.8299392
+    m_Target: 0.43305767
     speed: 2
+<<<<<<< HEAD
     m_Value: 1.8299392
 =======
     m_Target: {x: -0.08571348, y: 0.7421241, z: -0.09672669, w: -0.6576845}
@@ -288,6 +316,9 @@ MonoBehaviour:
     speed: 2
     m_Value: 0.37813312
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+    m_Value: 0.43305767
+>>>>>>> parent of d073a2f... Battery Socket
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -372,32 +403,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_MinSize: {x: 400, y: 100}
-  m_MaxSize: {x: 2048, y: 2048}
-  m_TitleContent:
-    m_Text: Asset Store
-    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
-      type: 0}
-    m_Tooltip: 
-  m_Pos:
-    serializedVersion: 2
-    x: 0
-    y: 73
-    width: 694
-    height: 476
-  m_PersistentViewDataDictionary: {fileID: 0}
---- !u!114 &9
-MonoBehaviour:
-  m_ObjectHideFlags: 52
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -405,6 +410,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
     y: 496
     width: 741
@@ -420,11 +426,19 @@ MonoBehaviour:
   m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 9}
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+    y: 417
+    width: 696
+    height: 258
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 9}
+>>>>>>> parent of d073a2f... Battery Socket
   m_Panes:
-  - {fileID: 10}
+  - {fileID: 9}
   m_Selected: 0
   m_LastSelected: 0
---- !u!114 &10
+--- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -446,12 +460,13 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 569
-    width: 739
-    height: 159
+    y: 490
+    width: 694
+    height: 238
   m_PersistentViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_LastSelectedObjectID: -23344
 --- !u!114 &11
@@ -459,6 +474,10 @@ MonoBehaviour:
   m_LastSelectedObjectID: -3878
 --- !u!114 &10
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  m_LastSelectedObjectID: 11680
+--- !u!114 &10
+>>>>>>> parent of d073a2f... Battery Socket
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -473,18 +492,18 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 741
+    x: 696
     y: 0
-    width: 114
+    width: 159
     height: 675
-  m_MinSize: {x: 104, y: 124}
-  m_MaxSize: {x: 4004, y: 4024}
-  m_ActualView: {fileID: 12}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 11}
   m_Panes:
-  - {fileID: 12}
+  - {fileID: 11}
   m_Selected: 0
   m_LastSelected: 0
---- !u!114 &12
+--- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -505,9 +524,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 741
+    x: 696
     y: 73
-    width: 110
+    width: 155
     height: 655
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
@@ -516,26 +535,30 @@ MonoBehaviour:
       m_SelectedIDs: 
       m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ExpandedIDs: 52a6ffff66a6ffffc2a8ffffc0aaffff30abffffe6afffffeeb0ffff0ad4ffff50d4ffff58d4ffffdcd4ffffcaf8ffffeaf8ffff2afbffffd6fbffffac3b00000e3c00001c3c0000e05b00000c5c0000325c0000cc5c0000705d00000a5e0000645e0000
 =======
       m_ExpandedIDs: daf0ffffb4f7ffff42330000503300007433000092330000a6330000b2330000c0330000
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+      m_ExpandedIDs: aaf3ffffd6fbffff4a2d0000ac2d00000a2e0000
+>>>>>>> parent of d073a2f... Battery Socket
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Line
-        m_OriginalName: Line
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -23094
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 11}
+        m_ClientGUIView: {fileID: 10}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -543,7 +566,7 @@ MonoBehaviour:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
   m_WindowGUID: 786616b30ef42254189be89bd048e836
---- !u!114 &13
+--- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -564,12 +587,12 @@ MonoBehaviour:
     height: 675
   m_MinSize: {x: 230, y: 250}
   m_MaxSize: {x: 10000, y: 10000}
-  m_ActualView: {fileID: 14}
+  m_ActualView: {fileID: 13}
   m_Panes:
-  - {fileID: 14}
+  - {fileID: 13}
   m_Selected: 0
   m_LastSelected: 0
---- !u!114 &14
+--- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -608,6 +631,7 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 96
@@ -620,12 +644,20 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+    - Assets/Animation
+  m_ViewMode: 1
+  m_StartGridSize: 96
+  m_LastFolders:
+  - Assets/Animation
+>>>>>>> parent of d073a2f... Battery Socket
   m_LastFoldersGridSize: 96
   m_LastProjectPath: E:\gitEriksahw\E-Rickshaw\ErickshawAr Without lwrp
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: a62a0000
     m_LastClickedID: 10918
@@ -635,6 +667,11 @@ MonoBehaviour:
     m_LastClickedID: 12002
     m_ExpandedIDs: 00000000362e00001630000000ca9a3b
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+    m_SelectedIDs: 4e2a0000
+    m_LastClickedID: 10830
+    m_ExpandedIDs: 0000000006280000ee29000000ca9a3b
+>>>>>>> parent of d073a2f... Battery Socket
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -650,7 +687,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 13}
+      m_ClientGUIView: {fileID: 14}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -663,10 +700,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000006280000f229000000ca9a3b
 =======
     m_ExpandedIDs: 00000000362e00001630000000ca9a3b
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+    m_ExpandedIDs: 0000000006280000ee29000000ca9a3b
+>>>>>>> parent of d073a2f... Battery Socket
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -692,6 +733,7 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedInstanceIDs: d0a4ffff
     m_LastClickedInstanceID: -23344
 =======
@@ -699,6 +741,11 @@ MonoBehaviour:
     m_LastClickedInstanceID: -3878
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
     m_HadKeyboardFocusLastEvent: 1
+=======
+    m_SelectedInstanceIDs: a02d0000
+    m_LastClickedInstanceID: 11680
+    m_HadKeyboardFocusLastEvent: 0
+>>>>>>> parent of d073a2f... Battery Socket
     m_ExpandedInstanceIDs: 062900004c49000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -726,7 +773,7 @@ MonoBehaviour:
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 96
   m_DirectoriesAreaWidth: 110
---- !u!114 &15
+--- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -745,6 +792,7 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 675
+<<<<<<< HEAD
   m_MinSize: {x: 277, y: 74}
   m_MaxSize: {x: 4002, y: 4024}
 <<<<<<< HEAD
@@ -752,12 +800,17 @@ MonoBehaviour:
 =======
   m_ActualView: {fileID: 16}
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 16}
+>>>>>>> parent of d073a2f... Battery Socket
   m_Panes:
+  - {fileID: 15}
   - {fileID: 16}
-  - {fileID: 17}
   m_Selected: 1
   m_LastSelected: 1
---- !u!114 &16
+--- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -788,7 +841,7 @@ MonoBehaviour:
   - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
   m_RegisteredViewInstances:
   - {fileID: 0}
---- !u!114 &17
+--- !u!114 &16
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
