@@ -22,6 +22,7 @@ MonoBehaviour:
     height: 675
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 713, y: 250}
   m_MaxSize: {x: 22008, y: 10000}
   vertical: 1
@@ -32,6 +33,12 @@ MonoBehaviour:
   vertical: 1
   controlID: 1402
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  m_MinSize: {x: 707, y: 250}
+  m_MaxSize: {x: 22002, y: 10000}
+  vertical: 1
+  controlID: 4680
+>>>>>>> parent of d073a2f... Battery Socket
 =======
   m_MinSize: {x: 707, y: 250}
   m_MaxSize: {x: 22002, y: 10000}
@@ -143,6 +150,7 @@ MonoBehaviour:
     height: 675
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 713, y: 250}
   m_MaxSize: {x: 22008, y: 10000}
   vertical: 0
@@ -153,6 +161,12 @@ MonoBehaviour:
   vertical: 0
   controlID: 1403
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  m_MinSize: {x: 707, y: 250}
+  m_MaxSize: {x: 22002, y: 10000}
+  vertical: 0
+  controlID: 4681
+>>>>>>> parent of d073a2f... Battery Socket
 =======
   m_MinSize: {x: 707, y: 250}
   m_MaxSize: {x: 22002, y: 10000}
@@ -185,10 +199,14 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 3751
 =======
   controlID: 1404
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  controlID: 4598
+>>>>>>> parent of d073a2f... Battery Socket
 =======
   controlID: 4598
 >>>>>>> parent of d073a2f... Battery Socket
@@ -254,6 +272,7 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0, y: 1, z: -9.5}
     speed: 2
     m_Value: {x: 0, y: 1, z: -9.5}
@@ -262,6 +281,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.2967273, y: 0.32298028, z: -0.38306114}
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+    m_Target: {x: 0.03389454, y: 0.24136727, z: 0.022454739}
+    speed: 2
+    m_Value: {x: 0.03389454, y: 0.24136727, z: 0.022454739}
+>>>>>>> parent of d073a2f... Battery Socket
 =======
     m_Target: {x: 0.03389454, y: 0.24136727, z: 0.022454739}
     speed: 2
@@ -296,7 +320,11 @@ MonoBehaviour:
   m_Rotation:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.069052644, y: 0.85179096, z: -0.116220206, w: -0.50613916}
+=======
+    m_Target: {x: -0.060269665, y: 0.752122, z: -0.06947217, w: -0.65257466}
+>>>>>>> parent of d073a2f... Battery Socket
 =======
     m_Target: {x: -0.060269665, y: 0.752122, z: -0.06947217, w: -0.65257466}
 >>>>>>> parent of d073a2f... Battery Socket
@@ -305,6 +333,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 0.43305767
     speed: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
     m_Value: 1.8299392
 =======
@@ -316,6 +345,9 @@ MonoBehaviour:
     speed: 2
     m_Value: 0.37813312
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+    m_Value: 0.43305767
+>>>>>>> parent of d073a2f... Battery Socket
 =======
     m_Value: 0.43305767
 >>>>>>> parent of d073a2f... Battery Socket
@@ -412,6 +444,7 @@ MonoBehaviour:
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 496
     width: 741
     height: 179
@@ -427,12 +460,17 @@ MonoBehaviour:
   m_ActualView: {fileID: 9}
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
 =======
+=======
+>>>>>>> parent of d073a2f... Battery Socket
     y: 417
     width: 696
     height: 258
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 9}
+<<<<<<< HEAD
+>>>>>>> parent of d073a2f... Battery Socket
+=======
 >>>>>>> parent of d073a2f... Battery Socket
   m_Panes:
   - {fileID: 9}
@@ -468,12 +506,17 @@ MonoBehaviour:
     m_IsLocked: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSelectedObjectID: -23344
 --- !u!114 &11
 =======
   m_LastSelectedObjectID: -3878
 --- !u!114 &10
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  m_LastSelectedObjectID: 11680
+--- !u!114 &10
+>>>>>>> parent of d073a2f... Battery Socket
 =======
   m_LastSelectedObjectID: 11680
 --- !u!114 &10
@@ -536,10 +579,14 @@ MonoBehaviour:
       m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ExpandedIDs: 52a6ffff66a6ffffc2a8ffffc0aaffff30abffffe6afffffeeb0ffff0ad4ffff50d4ffff58d4ffffdcd4ffffcaf8ffffeaf8ffff2afbffffd6fbffffac3b00000e3c00001c3c0000e05b00000c5c0000325c0000cc5c0000705d00000a5e0000645e0000
 =======
       m_ExpandedIDs: daf0ffffb4f7ffff42330000503300007433000092330000a6330000b2330000c0330000
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+      m_ExpandedIDs: aaf3ffffd6fbffff4a2d0000ac2d00000a2e0000
+>>>>>>> parent of d073a2f... Battery Socket
 =======
       m_ExpandedIDs: aaf3ffffd6fbffff4a2d0000ac2d00000a2e0000
 >>>>>>> parent of d073a2f... Battery Socket
@@ -632,6 +679,7 @@ MonoBehaviour:
     m_Folders:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 96
@@ -651,12 +699,20 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Animation
 >>>>>>> parent of d073a2f... Battery Socket
+=======
+    - Assets/Animation
+  m_ViewMode: 1
+  m_StartGridSize: 96
+  m_LastFolders:
+  - Assets/Animation
+>>>>>>> parent of d073a2f... Battery Socket
   m_LastFoldersGridSize: 96
   m_LastProjectPath: E:\gitEriksahw\E-Rickshaw\ErickshawAr Without lwrp
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: a62a0000
@@ -667,6 +723,11 @@ MonoBehaviour:
     m_LastClickedID: 12002
     m_ExpandedIDs: 00000000362e00001630000000ca9a3b
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+    m_SelectedIDs: 4e2a0000
+    m_LastClickedID: 10830
+    m_ExpandedIDs: 0000000006280000ee29000000ca9a3b
+>>>>>>> parent of d073a2f... Battery Socket
 =======
     m_SelectedIDs: 4e2a0000
     m_LastClickedID: 10830
@@ -701,10 +762,14 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000006280000f229000000ca9a3b
 =======
     m_ExpandedIDs: 00000000362e00001630000000ca9a3b
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+    m_ExpandedIDs: 0000000006280000ee29000000ca9a3b
+>>>>>>> parent of d073a2f... Battery Socket
 =======
     m_ExpandedIDs: 0000000006280000ee29000000ca9a3b
 >>>>>>> parent of d073a2f... Battery Socket
@@ -734,6 +799,7 @@ MonoBehaviour:
   m_ListAreaState:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedInstanceIDs: d0a4ffff
     m_LastClickedInstanceID: -23344
 =======
@@ -741,6 +807,11 @@ MonoBehaviour:
     m_LastClickedInstanceID: -3878
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
     m_HadKeyboardFocusLastEvent: 1
+=======
+    m_SelectedInstanceIDs: a02d0000
+    m_LastClickedInstanceID: 11680
+    m_HadKeyboardFocusLastEvent: 0
+>>>>>>> parent of d073a2f... Battery Socket
 =======
     m_SelectedInstanceIDs: a02d0000
     m_LastClickedInstanceID: 11680
@@ -793,6 +864,7 @@ MonoBehaviour:
     width: 277
     height: 675
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 277, y: 74}
   m_MaxSize: {x: 4002, y: 4024}
 <<<<<<< HEAD
@@ -800,6 +872,11 @@ MonoBehaviour:
 =======
   m_ActualView: {fileID: 16}
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 16}
+>>>>>>> parent of d073a2f... Battery Socket
 =======
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}

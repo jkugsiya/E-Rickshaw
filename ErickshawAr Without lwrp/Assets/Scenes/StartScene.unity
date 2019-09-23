@@ -1035,6 +1035,7 @@ Transform:
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!43 &844621532
 Mesh:
   m_ObjectHideFlags: 0
@@ -1329,6 +1330,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 795157077}
   m_CullTransparentMesh: 0
+=======
+>>>>>>> parent of d073a2f... Battery Socket
 --- !u!1 &852395390
 GameObject:
   m_ObjectHideFlags: 0
@@ -2190,6 +2193,7 @@ MeshFilter:
   m_Mesh: {fileID: 4300052, guid: e88b831f4c63fbf4dbed6d53f574ff65, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!21 &1330224188
 Material:
   serializedVersion: 6
@@ -2460,6 +2464,8 @@ SpriteRenderer:
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
 =======
 >>>>>>> parent of d073a2f... Battery Socket
+=======
+>>>>>>> parent of d073a2f... Battery Socket
 --- !u!1 &1518452767
 GameObject:
   m_ObjectHideFlags: 0
@@ -2622,10 +2628,14 @@ MeshFilter:
   m_GameObject: {fileID: 1667946605}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Mesh: {fileID: 844621532}
 =======
   m_Mesh: {fileID: 1374085694}
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  m_Mesh: {fileID: 1172574077}
+>>>>>>> parent of d073a2f... Battery Socket
 =======
   m_Mesh: {fileID: 1172574077}
 >>>>>>> parent of d073a2f... Battery Socket
@@ -2648,10 +2658,14 @@ MeshRenderer:
   m_Materials:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 1330224188}
 =======
   - {fileID: 936759860}
 >>>>>>> 9faeb266d75fded17c0df06a286295d6dc785cb2
+=======
+  - {fileID: 105261887}
+>>>>>>> parent of d073a2f... Battery Socket
 =======
   - {fileID: 105261887}
 >>>>>>> parent of d073a2f... Battery Socket

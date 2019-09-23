@@ -105,7 +105,11 @@
       <HintPath>E:/gitEriksahw/E-Rickshaw/ErickshawAr Without lwrp/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
+<<<<<<< HEAD
       <HintPath>E:/gitEriksahw/E-Rickshaw/ErickshawAr Without lwrp/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+=======
+      <HintPath>D:/GitHub/E-Rickshaw/ErickshawAr Without lwrp/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+>>>>>>> parent of d073a2f... Battery Socket
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>E:/gitEriksahw/E-Rickshaw/ErickshawAr Without lwrp/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
